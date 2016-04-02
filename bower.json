@@ -1,0 +1,24 @@
+{
+  "name": "movieflix",
+  "description": "movie app",
+  "main": "index.js",
+  "authors": [
+    "shoab10"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/shoab10/movieflix",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  }
+}
